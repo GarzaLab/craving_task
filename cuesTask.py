@@ -77,7 +77,7 @@ y = 5
 # Initialize components for Routine "welcome"
 welcomeClock = core.Clock()
 text = visual.TextStim(win=win, name='text',
-    text='Estamos a punto de comenzar.\n\nPon atención a las imágenes \nque se presenterán a continuación.',
+    text='Estamos a punto de comenzar.\n\nPon atencion a las imagenes \nque se presenteran a continuacion.',
     font='Arial',
     pos=(0, 0), height=0.1, wrapWidth=None, ori=0, 
     color='white', colorSpace='rgb', opacity=1,
